@@ -4,10 +4,7 @@ description: >-
   Data science approach to identify best locations around Nottingham Trent
   University to start student accommodation business
 date: '2021-08-17T14:55:11.373Z'
-categories: []
-keywords: []
-slug: >-
-  /@nikesh.strat/identification-of-ideal-locations-for-student-accommodation-db13a0dca5dc
+draft: false
 ---
 
 
