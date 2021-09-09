@@ -36,7 +36,9 @@ publishDir   = "public"
   homeSubtitle1 = "Get to know me better!"
   contact = "Feel free to contact me at nikesh.strat [at] yahoo.com "
 
-  enableThemeToggle = false
+  #backgroundImage = "images/background.jpg"
+
+  enableThemeToggle = true
 
   [params.footer]
     trademark = false
