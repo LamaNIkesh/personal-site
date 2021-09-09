@@ -1,13 +1,8 @@
 ---
 title: "Identification of Ideal Locations for Student Accommodation"
-description: >-
-  Data science approach to identify best locations around Nottingham Trent
-  University to start student accommodation business
 date: '2021-08-17T14:55:11.373Z'
 draft: false
 ---
-
-
 
 
 
