@@ -32,8 +32,8 @@ publishDir   = "public"
 [params]
   # Home subtitle of the index page.
   #homeSubtitle = "Hi, I am Nikesh Lama. "
-  homeSubtitle = "I am a Data Scientist based in Nottingham.  "
-  homeSubtitle1 = "I come from computational neuroscience background. Get to know me better!"
+  homeSubtitle = "I am an aspiring Data Scientist based in Nottingham.  "
+  homeSubtitle1 = "Get to know me better!"
   contact = "Feel free to conatct me at nikesh.strat [at] yahoo.com "
 
   enableThemeToggle = true
@@ -68,17 +68,17 @@ publishDir   = "public"
   # Social icons
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/LamaNIkesh"
 
   [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/"
   [[params.social]]
     name = "kaggle"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.kaggle.com/nikeshlama"
   [[params.social]]
     name = "medium"
-    url  = "https://www.linkedin.com/"
+    url  = "https://medium.com/@nikesh.strat"
 
 
 [menu]
@@ -91,7 +91,7 @@ publishDir   = "public"
 
   [[menu.main]]
     identifier = "Resume"
-    name       = "Resume"
+    name       = "Résumé"
     weight    = 1.5
     url        = "resume/"
 

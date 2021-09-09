@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "Résumé"
 date: 2021-09-07T16:20:26+01:00
 draft: false
 ---

@@ -12,12 +12,12 @@ You can also visit my [google scholar page](https://scholar.google.co.uk/citatio
 
 + Lama N and McGinnity T. M., Interspike Interval Distribution Based Surrogate Method for Spiking Neural Network Connectivity Analysis (2021) IEEE Transactions on Cognitive and Developmental Systems. [Submitted - Under Review]
 
-+ B ̈ottcher W, Machado P, Lama N and McGinnity T.M., Object Recognition for Robotics From Tac- tile Time Series Data Utilising Different Neural Network Architectures. (2021) International Joint Conference on Neural Networks (IJCNN)
++ B ̈ottcher W, Machado P, Lama N and McGinnity T.M., Object Recognition for Robotics From Tac- tile Time Series Data Utilising Different Neural Network Architectures. (2021) International Joint Conference on Neural Networks (IJCNN) [[Link]](https://www.researchgate.net/publication/351083309_Object_recognition_for_robotics_from_tactile_time_series_data_utilising_different_neural_network_architectures)
 
-+ Brandenburg S, Machado P, Lama N and McGinnity T.M., Strawberry Detection Using a Hetero- geneous Multi-Processor Platform, Proc. IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS 2020), Las Vegas, USA (2020)
++ Brandenburg S, Machado P, Lama N and McGinnity T.M., Strawberry Detection Using a Hetero- geneous Multi-Processor Platform, Proc. IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS 2020), Las Vegas, USA (2020) [[Link]](https://www.researchgate.net/publication/345686254_Strawberry_Detection_Using_a_Heterogeneous_Multi-Processor_Platform)
 
-+ Lama N, A. Hargreaves A., Stevens B and McGinnity T. M. Transfer Entropy Based Connectivity Estimation of Spontaneously Firing Hippocampal Cultures on Multi Electrode Arrays. (2019) International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary, 2019, pp. 1-8. doi:10.1109/IJCNN
++ Lama N, A. Hargreaves A., Stevens B and McGinnity T. M. Transfer Entropy Based Connectivity Estimation of Spontaneously Firing Hippocampal Cultures on Multi Electrode Arrays. (2019) International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary, 2019, pp. 1-8. doi:10.1109/IJCNN [[Link]](https://ieeexplore.ieee.org/abstract/document/8851864)
 
-+ Lama N, A. Hargreaves A, Stevens B and McGinnity T. M. Spike Train Synchrony Analysis of Neuronal Cultures. (2018) International Joint Conference on Neural Networks (IJCNN), Rio de Janeiro, pp. 1-8. doi: 10.1109/IJCNN.2018.8489728
++ Lama N, A. Hargreaves A, Stevens B and McGinnity T. M. Spike Train Synchrony Analysis of Neuronal Cultures. (2018) International Joint Conference on Neural Networks (IJCNN), Rio de Janeiro, pp. 1-8. doi: 10.1109/IJCNN.2018.8489728 [[Link]](https://ieeexplore.ieee.org/document/8489728)
 
-+ Machado P, Lama N, et al., Si elegans: Evaluation of an innovative optical synaptic connectivity method for C. elegans Phototaxis using FPGAs. (2016) International Joint Conference on Neural Networks (IJCNN), Vancouver, BC, 2016, pp. 185-191. doi: 10.1109/IJCNN.2016.7727197
++ Machado P, Lama N, et al., Si elegans: Evaluation of an innovative optical synaptic connectivity method for C. elegans Phototaxis using FPGAs. (2016) International Joint Conference on Neural Networks (IJCNN), Vancouver, BC, 2016, pp. 185-191. doi: 10.1109/IJCNN.2016.7727197 [[Link]](https://ieeexplore.ieee.org/document/7727197)
