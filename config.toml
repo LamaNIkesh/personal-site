@@ -34,7 +34,7 @@ publishDir   = "public"
   #homeSubtitle = "Hi, I am Nikesh Lama. "
   homeSubtitle = "I am an aspiring Data Scientist based in Nottingham.  "
   homeSubtitle1 = "Get to know me better!"
-  contact = "Feel free to contact me at nikesh.strat [at] yahoo.com "
+  contact = "Contact: nikesh.strat [at] yahoo.com "
 
   #backgroundImage = "images/background.jpg"
 
