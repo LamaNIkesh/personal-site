@@ -1,4 +1,4 @@
-baseURL = "https://nikeshlama.com"
+baseURL = "https://nikeshlama.netlify.app/"
 title   = "Nikesh Lama"
 canonifyurls = false
 languageCode = "en-us"
