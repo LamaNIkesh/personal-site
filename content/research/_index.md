@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-### List of my research papers. 
+### List of my research papers 
 You can also visit my [google scholar page](https://scholar.google.co.uk/citations?user=IkKWZHAAAAAJ&hl=en)
 
 + Lama N and McGinnity T.M., Induction of Long Term Network Responses and Statistical Network Connectivity Estimation in Hippocampal Neuronal Cultures. [In progress]
