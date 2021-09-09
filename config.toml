@@ -1,0 +1,108 @@
+baseURL = "https://nikeshlama.com"
+title   = "Nikesh Lama"
+canonifyurls = false
+languageCode = "en-us"
+theme = "hello-friend-ng"
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+[author]
+  name = "Nikesh Lama"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
+
+
+## site settings
+[params]
+  # Home subtitle of the index page.
+  #homeSubtitle = "Hi, I am Nikesh Lama. "
+  homeSubtitle = "I am a Data Scientist based in Nottingham.  "
+  homeSubtitle1 = "I come from computational neuroscience background. Get to know me better!"
+  contact = "Feel free to conatct me at nikesh.strat [at] yahoo.com "
+
+  enableThemeToggle = true
+
+  [params.footer]
+    trademark = false
+    rss = false
+    copyright = false 
+    author = false
+
+    topText = []
+    bottomText = []
+
+  # Colors for favicons
+  #
+  [params.favicon.color]
+    mask = "#1b1c1d"
+    msapplication = "#1b1c1d"
+    theme = "#1b1c1d"
+
+  [params.logo]
+    logoMark     = ">"
+    logoText     = "$ Hi! I am Nikesh _"
+    logoHomeLink = "/"
+
+  [params.portrait]
+       path     = "images/profile.jpg"
+       alt      = "Portrait"
+       maxWidth = "300px"
+
+
+  # Social icons
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/"
+  [[params.social]]
+    name = "kaggle"
+    url  = "https://www.linkedin.com/"
+  [[params.social]]
+    name = "medium"
+    url  = "https://www.linkedin.com/"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "About"
+    name       = "About"
+    weight    = 1
+    url        = "about/"
+
+  [[menu.main]]
+    identifier = "Resume"
+    name       = "Resume"
+    weight    = 1.5
+    url        = "resume/"
+
+  [[menu.main]]
+    identifier = "Projects"
+    name       = "Projects"
+    weight    = 2
+    url        = "projects/"
+
+  [[menu.main]]
+    identifier = "Research"
+    name       = "Research"
+    weight    = 3
+    url        = "research/"
