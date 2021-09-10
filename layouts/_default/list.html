@@ -14,6 +14,9 @@
 
                 <ul class="posts-list">
                     {{ range .Pages }}
+                                <div class="post-info">
+                                    {{ partial "tags.html" .Params.tags }}
+                                    {{ partial "categories.html" . }}</div>
                         <li class="post-item">
                             <a href="{{.Permalink}}">
                                 <span class="post-title">{{.Title}}</span>
@@ -25,8 +28,11 @@
                                     {{ end }}
                                 </span>
                             </a>
-                        </li>
+                            
+                        </li>   
+
                     {{ end }}
+
                 </ul>
             </div>
         {{ end }}
