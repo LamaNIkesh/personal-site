@@ -12,6 +12,6 @@ tags:
 
 {{< figure src="/images/dashboard/dash.png" width="600px" class="center">}} 
 
-The dashboard is available [here](https://public.tableau.com/shared/PNGMBWG3F?:display_count=n&:origin=viz_share_link)
+The dashboard is available [here](https://public.tableau.com/views/covid-19dashboard_16314626261170/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
