@@ -19,4 +19,6 @@ This is simple wall following maze solving robot designed and put together from 
 * RN42 bluetooth module
 * Push buttons
 
-You can view the source code [here](https://github.com/LamaNIkesh/MazeSolver-NoIntelligence) and see it in action [here](https://www.youtube.com/watch?v=fzpzEGue-wc)
+You can view the source code [here](https://github.com/LamaNIkesh/MazeSolver-NoIntelligence) and see it in action [here](https://www.youtube.com/watch?v=fzpzEGue-wc) or below. 
+
+{{< youtube fzpzEGue-wc >}}
