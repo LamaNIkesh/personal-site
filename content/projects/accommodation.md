@@ -26,7 +26,7 @@ tags:
 
 Identify ideal locations around Nottingham Trent University (NTU) such that the locations have access to a wide range of amenities, are safe and are in close proximity to the university (within a 5 km radius).
 
-In this project, I utilise [**_Foursquare API_**](https://foursquare.com) to explore neighbourhoods around NTU to provide consultation for the best locations for investing in student accommodation. The solution provided will be useful for business owners to choose locations around NTU to provide accommodation services to university students. Mainly, the availability of facilities around the locations and the number of criminal events reported are taken into account. Usually, students prefer to live in close proximity to university campuses so the locations are restricted within a 5 km radius of NTU.
+In this project, I utilise *[Foursquare API](https://foursquare.com)* to explore neighbourhoods around NTU to provide consultation for the best locations for investing in student accommodation. The solution provided will be useful for business owners to choose locations around NTU to provide accommodation services to university students. Mainly, the availability of facilities around the locations and the number of criminal events reported are taken into account. Usually, students prefer to live in close proximity to university campuses so the locations are restricted within a 5 km radius of NTU.
 
 
 ### Background

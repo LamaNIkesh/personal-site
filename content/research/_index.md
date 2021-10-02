@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "Research"
 date: 2021-09-07T16:20:43+01:00
-draft: false
+draft: False
 ---
 
 
@@ -12,7 +12,7 @@ You can also visit my [google scholar page](https://scholar.google.co.uk/citatio
 
 + **Lama N** and McGinnity T. M., Interspike Interval Distribution Based Surrogate Method for Spiking Neural Network Connectivity Analysis (2021) IEEE Transactions on Cognitive and Developmental Systems. [**Submitted - Under Review**]
 
-+ B ̈ottcher W, Machado P, **Lama N** and McGinnity T.M., Object Recognition for Robotics From Tac- tile Time Series Data Utilising Different Neural Network Architectures. (2021) International Joint Conference on Neural Networks (IJCNN) **[[Link]](https://www.researchgate.net/publication/351083309_Object_recognition_for_robotics_from_tactile_time_series_data_utilising_different_neural_network_architectures)**
++ B ̈ottcher W, Machado P, **Lama N** and McGinnity T.M., Object Recognition for Robotics From Tac- tile Time Series Data Utilising Different Neural Network Architectures. (2021) International Joint Conference on Neural Networks (IJCNN) **[[Link]](https://arxiv.org/pdf/2109.04573.pdf)**
 
 + Brandenburg S, Machado P, **Lama N** and McGinnity T.M., Strawberry Detection Using a Hetero- geneous Multi-Processor Platform, Proc. IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS 2020), Las Vegas, USA (2020) **[[Link]](https://www.researchgate.net/publication/345686254_Strawberry_Detection_Using_a_Heterogeneous_Multi-Processor_Platform)**
 
