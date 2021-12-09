@@ -32,7 +32,7 @@ publishDir   = "public"
 [params]
   # Home subtitle of the index page.
   #homeSubtitle = "Hi, I am Nikesh Lama. "
-  homeSubtitle = "I am an aspiring Data Scientist based in Nottingham.  "
+  homeSubtitle = "I am a Data Scientist based in Nottingham.  "
   homeSubtitle1 = "Get to know me better!"
   contact = "Contact: nikesh.strat [at] yahoo.com "
 
