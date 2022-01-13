@@ -14,7 +14,7 @@ tags:
 
 
 
-> This is part of my IBM data science course I completed using Folium, Foursquare API, Scikit-learn and Pandas — plus other necessary libraries such as Matplotlib, numpy etc. Complete Jupyter notebook on NBViewer is available [here](https://nbviewer.jupyter.org/github/LamaNIkesh/Coursera_Capstone/blob/87a56fb0b9ca29576d4a1d32bb9a6148d8e45269/Capstone_Uni_accommodation_final.ipynb) for rendered experience. Also, the notebook can be viewable on my [github](https://github.com/LamaNIkesh/Coursera_Capstone/blob/main/Capstone_Uni_accommodation_final.ipynb) as well, however some figures may not render properly.
+> This is part of my IBM data science course I completed using Folium, Foursquare API, Scikit-learn and Pandas — plus other necessary libraries such as Matplotlib, numpy etc. Complete Jupyter notebook on NBViewer is available [here](http://nbviewer.org/github/LamaNIkesh/Location-Analytics/blob/main/Notebook_Walkthrough.ipynb) for rendered experience. Also, the notebook can be viewable on my [github](https://github.com/LamaNIkesh/Location-Analytics/blob/main/Notebook_Walkthrough.ipynb) as well, however some figures may not render properly.
 
 
 
@@ -34,7 +34,7 @@ In this project, I utilise *[Foursquare API](https://foursquare.com)* to explore
 Nottingham is a city in central England’s Midlands region in the United Kingdom. There are around 65,000 students at Nottingham’s two universities — the University of Nottingham and Nottingham Trent University. With a huge student population, Nottingham is one of the most vibrant cities in the UK. Nottingham is ranked as the 6th best city in the UK for students and 48th in the world, according to the [QS Best Student Cities 2019](https://www.topuniversities.com/city-rankings/2019). Due to a large influx of students at the beginning of each academic year, university halls of residence are not enough to accommodate all the students. Also, most students prefer to seek residence via private student accommodation due to affordable rent and wider options in terms of location and housemates. This opens up the business opportunities to invest and explore private accommodation services to the university students ensuring maximum safety, accessibility to amenities and minimising distance to the University.
 
 
-> You can read the complete report of the project as a medium article [here](https://medium.com/@nikesh.strat/identification-of-ideal-locations-for-student-accommodation-db13a0dca5dc) with the jupyter notebook [here](https://nbviewer.jupyter.org/github/LamaNIkesh/Coursera_Capstone/blob/87a56fb0b9ca29576d4a1d32bb9a6148d8e45269/Capstone_Uni_accommodation_final.ipynb)
+> You can read the complete report of the project as a medium article [here](https://medium.com/@nikesh.strat/identification-of-ideal-locations-for-student-accommodation-db13a0dca5dc) with the jupyter notebook [here](http://nbviewer.org/github/LamaNIkesh/Location-Analytics/blob/main/Notebook_Walkthrough.ipynb)
 
 
 
